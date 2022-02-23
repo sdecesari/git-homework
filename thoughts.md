@@ -5,5 +5,3 @@ time management
 Anthony
 
 new item
-keep trying
-you can do it
